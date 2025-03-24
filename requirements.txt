@@ -5,3 +5,9 @@ langchain
 PyPDF2
 faiss-cpu
 langchain_google_genai
+Python==3.11.11
+paddleocr==2.9.1
+paddlepaddle==2.6.2
+torchvision==0.19.1
+torch==2.4.1+cu118
+torchaudio==2.4.1+cu118
