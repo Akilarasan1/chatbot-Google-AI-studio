@@ -3,6 +3,7 @@
 A Streamlit-powered AI chatbot that extracts text from PDFs and images using OCR and enables users to interact with the extracted content via Google Gemini AI.
 
 ✨ Features
+
 ✔️ Upload PDF and image files for text extraction
 
 ✔️ OCR processing using Google Cloud Vision API & EasyOCR
