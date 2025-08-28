@@ -4,10 +4,15 @@ A Streamlit-powered AI chatbot that extracts text from PDFs and images using OCR
 
 ✨ Features
 ✔️ Upload PDF and image files for text extraction
+
 ✔️ OCR processing using Google Cloud Vision API & EasyOCR
+
 ✔️ Chunking long text for efficient querying
+
 ✔️ Semantic search using FAISS vector store
+
 ✔️ Conversational AI with Gemini 2.0 Flash
+
 ✔️ Streamlit-based UI for easy interaction
 
 🛠 Tech Stack
